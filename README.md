@@ -1,15 +1,10 @@
 # Note
 
-Schnelle Desktop-Notizen und Checklisten für macOS mit Liquid-Glass-Optik und automatischem Update-Check.
+Schnelle Desktop-Notizen und Checklisten für macOS mit Liquid-Glass-Optik und automatischem Update-Check[cite: 23].
 
 ### ⬇️ Download (macOS)
-👉 **[Hier klicken, um Note direkt herunterzuladen (Note_Installer.dmg)](https://github.com/papichulooo69/Note-Releases/releases/latest/download/Note_Installer.dmg)**
-*(Oder alle Versionen in den [Releases](https://github.com/papichulooo69/Note-Releases/releases) ansehen)*
-
----
-
-![Note App Vorschau 1](Bild%201.png)
-![Note App Vorschau 2](Bild%202.png)
+👉 **[Hier klicken, um Note direkt herunterzuladen (Note_Installer.dmg)](https://github.com/papichulooo69/Note-Releases/releases/latest/download/Note_Installer.dmg)**[cite: 23]
+*(Oder alle Versionen in den [Releases](https://github.com/papichulooo69/Note-Releases/releases) ansehen)*[cite: 23]
 
 ---
 
@@ -28,3 +23,8 @@ Because **Note** is currently distributed without Apple notarization, macOS may 
 
 1. Drag **Note.app** into the **Applications** folder and try opening it once.
 2. If macOS says the app cannot be verified: open **System Settings** → **Privacy & Security**, scroll down, and click **Open Anyway** *(confirm with password or Touch ID if prompted)*.
+
+---
+
+![Note App Vorschau 1](Bild%201.png)[cite: 23]
+![Note App Vorschau 2](Bild%202.png)[cite: 23]
