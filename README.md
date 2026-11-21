@@ -1,10 +1,10 @@
 # Note
 
-Schnelle Desktop-Notizen und Checklisten für macOS mit Liquid-Glass-Optik und automatischem Update-Check[cite: 23].
+Schnelle Desktop-Notizen und Checklisten für macOS mit Liquid-Glass-Optik und automatischem Update-Check.
 
 ### ⬇️ Download (macOS)
-👉 **[Hier klicken, um Note direkt herunterzuladen (Note_Installer.dmg)](https://github.com/papichulooo69/Note-Releases/releases/latest/download/Note_Installer.dmg)**[cite: 23]
-*(Oder alle Versionen in den [Releases](https://github.com/papichulooo69/Note-Releases/releases) ansehen)*[cite: 23]
+👉 **[Hier klicken, um Note direkt herunterzuladen (Note_Installer.dmg)](https://github.com/papichulooo69/Note-Releases/releases/latest/download/Note_Installer.dmg)**
+*(Oder alle Versionen in den [Releases](https://github.com/papichulooo69/Note-Releases/releases) ansehen)*
 
 ---
 
