@@ -26,5 +26,4 @@ Because **Note** is currently distributed without Apple notarization, macOS may 
 
 ---
 
-![Note App Vorschau 1](Bild%201.png)
 ![Note App Vorschau 2](Bild%202.png)
